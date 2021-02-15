@@ -4,13 +4,14 @@
     box-sizing: border-box
   }
   body {  
-    color: #b4b2b2;
-    font-family:'Times New Roman', Times, serif
-    }
+    color: #696969;
+    font-family:'Times New Roman', Times, serif;
+    background-color: #8f8c8c;
+  }
   
   header {
     padding: 40px 35px;
-    background-color: #696969;
+    background-color: #505050;
   }
   header h1 {
     font-weight: bold;
@@ -104,7 +105,7 @@
   background-color: #f1b4b4;
   padding: 20px;
   width: 500px;
-  color: #666666;
+  color: #505050;
   bottom: 120px;
   right: 140px;
  }
@@ -146,7 +147,7 @@ input#message {
 }
 
 footer {
-  background: #666666;
+  background: #505050;
   width: 100%;
   padding: 30px 25px;
 }
@@ -156,6 +157,8 @@ footer h2 {
   color: #610101;
   font-size: 15px;
   margin: 0;
+  width:100%;
+
 }
 
 
