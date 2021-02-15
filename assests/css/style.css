@@ -40,11 +40,12 @@
   section {
     padding:60px
   }
-  hero img {
-    height:200px;
+  .hero img {
+    height:700px;
     background-size:cover;
     background-position: center;
     opacity: 50%;
+    width:100%
   }
   .hero {
     background-image:url("file:///Users/nicholechristianson/Desktop/demo-project/homework/02-css%20portfolio/assests/pictures/DSC08734.JPG");
@@ -53,8 +54,8 @@
     background-position: center;
     opacity: 50%;
     }
-   
 
+    
 .about-me {
   text-align: center;
 }
